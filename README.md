@@ -5,8 +5,8 @@
 > 完整项目地址： </br>
 
 ## 目录(等待完成的项目)
-- [] 1 JavaScript Drum Kit 指南
-- [] 2 JS + CSS Clock 指南
+- [ ] 1 JavaScript Drum Kit 指南
+- [ ] 2 JS + CSS Clock 指南
 - [] 3 CSS Variables 指南
 - [] 4 Array Cardio
 - [] 5	Flex Panel Gallery 
