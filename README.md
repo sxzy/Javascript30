@@ -5,4 +5,4 @@
 > 完整项目地址： 
 
 ## 目录(等待完成的项目)
-- [] JavaScript Drum Kit 指南
+- [x] JavaScript Drum Kit 指南
